@@ -67,3 +67,7 @@ Focus       : Pwnable, Web, Crypto
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kukhoyeon&bg_color=0d1117&color=39D353&line=238636&point=ffffff&area=true&hide_border=true" width="98%" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kukhoyeon/kukhoyeon/output/github-contribution-grid-snake-dark.svg" width="98%" />
+</div>
