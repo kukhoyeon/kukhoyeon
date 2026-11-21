@@ -43,10 +43,6 @@ Focus       : Pwnable, Web, Crypto
 
 <br/>
 
-<!-- GitHub 트로피 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kukhoyeon&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" width="98%" />
-</div>
 
 <br/>
 
